@@ -1,0 +1,13 @@
+*.iml
+*.idea
+/target/
+/*.log*
+src/main/java/nl/coin/groovyScripts/
+src/main/java/nl/coin/poc/
+src/main/java/nl/coin/soapUIScripts/
+src/main/resources/SOAPUIproject/Requests/
+src/main/resources/SOAPUIproject/splitFiles/
+src/main/resources/SOAPUIproject/*.backup
+src/test/resources/
+Logs/*.dat
+Logs/*.log
